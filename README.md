@@ -22,3 +22,6 @@ A React quiz application built with TypeScript and Tailwind CSS.
 npm install
 npm run dev
 \`\`\`
+
+## Live demo
+https://unique-pudding-8d4ca0.netlify.app
